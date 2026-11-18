@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "materials": [
+    {
+      "key": "M001",
+      "version": 1,
+      "title": "Beispiel: Anlaut-Bingo",
+      "info": "Druckt das Blatt aus. Ein Erwachsener sagt ein Wort, das Kind kreuzt das Bild mit dem gleichen Anfangslaut an.",
+      "file": "pdf/M001.pdf",
+      "diagnoses": ["D1", "D2"]
+    }
+  ]
+}
